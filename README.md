@@ -8,7 +8,7 @@
 ### Education
 - Pusan National University | Undergraduate in Computer Science & Engineering
 ### Blogs
-
+- https://raindrop3.github.io/
 ### Contact
 - E-mail | kanghy6220@gmail.com
 
