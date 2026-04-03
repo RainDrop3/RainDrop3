@@ -6,11 +6,11 @@
 
 
 ### Education
-- Pusan National University | Undergraduate in Computer Science & Engineering
-### Blogs
-- https://raindrop3.github.io/
+- **Pusan National University** | Undergraduate in Computer Science & Engineering
 ### Contact
-- E-mail | kanghy6220@gmail.com
+- **E-mail** | kanghy6220@gmail.com
+- **Blog** | https://raindrop3.github.io/
+- **Solved.ac** | https://solved.ac/profile/raindrop
 
 # Tech Stack
 ### Proficient
