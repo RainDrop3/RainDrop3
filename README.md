@@ -1,4 +1,3 @@
-# 👋Hi there,
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=This%20is%20RainDrop3&fontSize=70&animation=blinking)
 
 # About Me
