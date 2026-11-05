@@ -20,7 +20,7 @@
 | --- | --- | --- | --- |
 | Kakao | [**PreeT**](https://github.com/kakaotechcampus-4/ktc4-pusan-4) | AI Lead(Team of 6) | '26.09 - Present |
 
-- **경비판정(가칭)**: Service that helps sole proprietors determine deductible expenses for comprehensive income tax
+- **PreeT**: Service that helps sole proprietors determine deductible expenses for comprehensive income tax
 
 ### 2. Awards
 
